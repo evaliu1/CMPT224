@@ -1,2 +1,2 @@
-# CMPT224
+# CMPT225
 Data Structure
